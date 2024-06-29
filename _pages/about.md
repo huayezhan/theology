@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 
 I am currently looking for an Data Engineer position, starting around 2025 Spring/Summer.
 
-I am a student studying in [AI-Software Engineer Technology](https://www.centennialcollege.ca/programs-courses/full-time/artificial-intelligence-fast-track) at Centennial College. I mainly focus on Data Analysis and Web App. Specifically, my current interests lie in these topics: Data Engineer and Web developer.
+I am a student studying in [AI-Software Engineer Technology](https://www.centennialcollege.ca/programs-courses/full-time/artificial-intelligence-fast-track) at Centennial College. I mainly focus on Data Analysis and Web App. Specifically, my current interests lie in these fields: Data Engineer and Web developer.
 
 I obtained my Bachelor's degree in Robotics Engineering and Automation at the [Guangdong University of Technology](https://english.gdut.edu.cn/) between 2015 and 2019, supervised by Dr. [Juan Rojas](http://www.juanrojas.net/). During my Bachelor's period, I did my Bachelor's thesis on Human Pose Estimation Based on Deep Learning.
 
